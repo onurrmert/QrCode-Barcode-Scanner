@@ -1,7 +1,11 @@
 # QrCode-Barcode-Scanner
-With this application you can read qrcode-barcode.
+With this application you can read qrcode or barcode.
 <br><br> Technologies used <br><br>-viewBinding <br><br> -fragment navigation <br><br> -toolbar<br><br> 
+
+https://user-images.githubusercontent.com/67163842/207930567-53283cff-bc2a-4bf0-bf73-317ef36aeec5.mp4
+
 App splash screen <br><br>
+
 
 ![Screenshot_20221019-163056_QRCode-Barcode](https://user-images.githubusercontent.com/67163842/196708073-4e196a85-4011-41a7-b478-707f745f879e.jpg)
 
